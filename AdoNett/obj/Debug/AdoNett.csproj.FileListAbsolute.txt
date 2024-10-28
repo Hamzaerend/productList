@@ -1,0 +1,10 @@
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.csproj.AssemblyReference.cache
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.Properties.Resources.resources
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.csproj.GenerateResource.cache
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.csproj.CoreCompileInputs.cache
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\bin\Debug\AdoNett.exe.config
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\bin\Debug\AdoNett.exe
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\bin\Debug\AdoNett.pdb
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.exe
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.pdb
+C:\Users\hmzrndnc\Desktop\olsunbe\AdoNett\obj\Debug\AdoNett.gbxAdd.resources
